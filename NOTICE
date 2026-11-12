@@ -1,0 +1,19 @@
+rashomon-llm
+Copyright 2026 Egzakta
+
+This product includes software developed by Egzakta AI Lab.
+
+Components taken from private Egzakta repositories (those repositories are
+not distributed):
+
+- src/rashomon_llm/stats.py
+  Cluster bootstrap from a private Egzakta repository, as used in the
+  originating private study. Code unchanged, comments edited for
+  publication.
+
+- scripts/check_secrets.py
+  Derived from a secret-check script in a private Egzakta repository and
+  modified for this project (private addresses are errors; --tree mode).
+
+Both are Egzakta code relicensed under Apache-2.0 by the copyright holder
+for inclusion in this project.

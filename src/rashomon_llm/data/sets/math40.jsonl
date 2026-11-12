@@ -1,0 +1,40 @@
+{"id": "math-linear-00", "family": "math_linear", "messages": [{"role": "user", "content": "Solve for x: 10x + 45 = 175. Answer with just the number."}]}
+{"id": "math-linear-01", "family": "math_linear", "messages": [{"role": "user", "content": "Solve for x: 2x + 38 = 60. Answer with just the number."}]}
+{"id": "math-linear-02", "family": "math_linear", "messages": [{"role": "user", "content": "Solve for x: 5x + 3 = 28. Answer with just the number."}]}
+{"id": "math-linear-03", "family": "math_linear", "messages": [{"role": "user", "content": "Solve for x: 10x + 10 = -10. Answer with just the number."}]}
+{"id": "math-linear-04", "family": "math_linear", "messages": [{"role": "user", "content": "Solve for x: 2x + 30 = 24. Answer with just the number."}]}
+{"id": "math-linear-05", "family": "math_linear", "messages": [{"role": "user", "content": "Solve for x: 5x + 38 = 93. Answer with just the number."}]}
+{"id": "math-linear-06", "family": "math_linear", "messages": [{"role": "user", "content": "Solve for x: 2x + 38 = 18. Answer with just the number."}]}
+{"id": "math-linear-07", "family": "math_linear", "messages": [{"role": "user", "content": "Solve for x: 5x + 30 = 45. Answer with just the number."}]}
+{"id": "math-percent-00", "family": "math_percent", "messages": [{"role": "user", "content": "What is 60% of 900? Answer with just the number."}]}
+{"id": "math-percent-01", "family": "math_percent", "messages": [{"role": "user", "content": "What is 35% of 300? Answer with just the number."}]}
+{"id": "math-percent-02", "family": "math_percent", "messages": [{"role": "user", "content": "What is 75% of 140? Answer with just the number."}]}
+{"id": "math-percent-03", "family": "math_percent", "messages": [{"role": "user", "content": "What is 35% of 80? Answer with just the number."}]}
+{"id": "math-percent-04", "family": "math_percent", "messages": [{"role": "user", "content": "What is 15% of 280? Answer with just the number."}]}
+{"id": "math-percent-05", "family": "math_percent", "messages": [{"role": "user", "content": "What is 80% of 100? Answer with just the number."}]}
+{"id": "math-percent-06", "family": "math_percent", "messages": [{"role": "user", "content": "What is 90% of 480? Answer with just the number."}]}
+{"id": "math-percent-07", "family": "math_percent", "messages": [{"role": "user", "content": "What is 25% of 220? Answer with just the number."}]}
+{"id": "math-speed-00", "family": "math_speed", "messages": [{"role": "user", "content": "A car travels 450 km in 3 hours at a constant speed. What is its average speed in km/h? Answer with just the number."}]}
+{"id": "math-speed-01", "family": "math_speed", "messages": [{"role": "user", "content": "A car travels 750 km in 5 hours at a constant speed. What is its average speed in km/h? Answer with just the number."}]}
+{"id": "math-speed-02", "family": "math_speed", "messages": [{"role": "user", "content": "A car travels 210 km in 3 hours at a constant speed. What is its average speed in km/h? Answer with just the number."}]}
+{"id": "math-speed-03", "family": "math_speed", "messages": [{"role": "user", "content": "A car travels 300 km in 5 hours at a constant speed. What is its average speed in km/h? Answer with just the number."}]}
+{"id": "math-speed-04", "family": "math_speed", "messages": [{"role": "user", "content": "A car travels 240 km in 3 hours at a constant speed. What is its average speed in km/h? Answer with just the number."}]}
+{"id": "math-speed-05", "family": "math_speed", "messages": [{"role": "user", "content": "A car travels 700 km in 5 hours at a constant speed. What is its average speed in km/h? Answer with just the number."}]}
+{"id": "math-speed-06", "family": "math_speed", "messages": [{"role": "user", "content": "A car travels 400 km in 5 hours at a constant speed. What is its average speed in km/h? Answer with just the number."}]}
+{"id": "math-speed-07", "family": "math_speed", "messages": [{"role": "user", "content": "A car travels 630 km in 7 hours at a constant speed. What is its average speed in km/h? Answer with just the number."}]}
+{"id": "math-interest-00", "family": "math_interest", "messages": [{"role": "user", "content": "An investment of 1500 EUR earns 5% simple interest per year. What is its total value after 6 years? Answer with just the number."}]}
+{"id": "math-interest-01", "family": "math_interest", "messages": [{"role": "user", "content": "An investment of 1100 EUR earns 7% simple interest per year. What is its total value after 8 years? Answer with just the number."}]}
+{"id": "math-interest-02", "family": "math_interest", "messages": [{"role": "user", "content": "An investment of 3100 EUR earns 3% simple interest per year. What is its total value after 2 years? Answer with just the number."}]}
+{"id": "math-interest-03", "family": "math_interest", "messages": [{"role": "user", "content": "An investment of 3600 EUR earns 6% simple interest per year. What is its total value after 3 years? Answer with just the number."}]}
+{"id": "math-interest-04", "family": "math_interest", "messages": [{"role": "user", "content": "An investment of 800 EUR earns 2% simple interest per year. What is its total value after 5 years? Answer with just the number."}]}
+{"id": "math-interest-05", "family": "math_interest", "messages": [{"role": "user", "content": "An investment of 1600 EUR earns 7% simple interest per year. What is its total value after 3 years? Answer with just the number."}]}
+{"id": "math-interest-06", "family": "math_interest", "messages": [{"role": "user", "content": "An investment of 2400 EUR earns 2% simple interest per year. What is its total value after 2 years? Answer with just the number."}]}
+{"id": "math-interest-07", "family": "math_interest", "messages": [{"role": "user", "content": "An investment of 2100 EUR earns 8% simple interest per year. What is its total value after 7 years? Answer with just the number."}]}
+{"id": "math-area-00", "family": "math_area", "messages": [{"role": "user", "content": "A rectangle has length 13 m and width 15 m. What is its area in square meters? Answer with just the number."}]}
+{"id": "math-area-01", "family": "math_area", "messages": [{"role": "user", "content": "A rectangle has length 21 m and width 14 m. What is its area in square meters? Answer with just the number."}]}
+{"id": "math-area-02", "family": "math_area", "messages": [{"role": "user", "content": "A rectangle has length 15 m and width 10 m. What is its area in square meters? Answer with just the number."}]}
+{"id": "math-area-03", "family": "math_area", "messages": [{"role": "user", "content": "A rectangle has length 11 m and width 15 m. What is its area in square meters? Answer with just the number."}]}
+{"id": "math-area-04", "family": "math_area", "messages": [{"role": "user", "content": "A rectangle has length 22 m and width 14 m. What is its area in square meters? Answer with just the number."}]}
+{"id": "math-area-05", "family": "math_area", "messages": [{"role": "user", "content": "A rectangle has length 10 m and width 7 m. What is its area in square meters? Answer with just the number."}]}
+{"id": "math-area-06", "family": "math_area", "messages": [{"role": "user", "content": "A rectangle has length 22 m and width 15 m. What is its area in square meters? Answer with just the number."}]}
+{"id": "math-area-07", "family": "math_area", "messages": [{"role": "user", "content": "A rectangle has length 7 m and width 2 m. What is its area in square meters? Answer with just the number."}]}
